@@ -23,5 +23,10 @@ __this is bold__
 
 * list item one
 * two
+* three
+
+header 1 | header 2
+-------- | --------
+cell 1 | cell 2
 
 this is a markdown file
