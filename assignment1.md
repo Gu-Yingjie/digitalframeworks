@@ -23,6 +23,14 @@ But it seems a bit confusing to me while they are illustrating the results. It w
 
 I will be wondering how exactly it will affect the midterm elections according to the poll results. At the beginning of the article, it said that this will for sure aspect so I expected that the article would at least provide some guidance. 
 
+         | Rallygoers | Nonrallygoers |
+-------- | -------- | -------- |
+cell 1 | cell 2 | cell 3 |
+
+
+
+
+
 
 
 
