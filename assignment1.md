@@ -23,13 +23,11 @@ But it seems a bit confusing to me while they are illustrating the results. It w
 
 I will be wondering how exactly it will affect the midterm elections according to the poll results. At the beginning of the article, it said that this will for sure aspect so I expected that the article would at least provide some guidance. 
 
-|  Demographic and political makeup of rallygoers VS nonrallygoers | Rallygoers | Nonrallygoers |
-|-------- |------------| -------- |
-| Trump Approval  | cell 2     | cell 3 |
-|-----------------|------------| -------- |
-|Party alliliation| cell 2     | cell 3 |
-|-----------------|------------| -------- |
-|Education | cell 2     | cell 3 |
+|  Trump Approval | Rallygoers | Nonrallygoers |
+|-----------------|------------| --------------|
+|  Approve | cell 2     | cell 3 |
+|--------- |------------| -------|
+| Disapprove | cell 2     | cell 3 |
 
 
 
