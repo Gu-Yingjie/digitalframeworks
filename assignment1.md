@@ -10,3 +10,11 @@ A list or table
 Hyperlinked text
 Submit this assignment in your digitalframeworks repository as assignment1.md.
 I strongly encourage you to complete this assignment in class. Submitting the first assignment is the hardest, and I'm here to help if you do it in class. I can't help you if you email me 20 minutes before deadline.
+
+
+
+.[The Washington Post story on the crisis of Flint water ](https://www.washingtonpost.com/news/wonk/wp/2016/01/15/this-is-how-toxic-flints-water-really-is/?utm_term=.36209ae57850)
+
+
+
+
