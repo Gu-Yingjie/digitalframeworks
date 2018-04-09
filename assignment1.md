@@ -14,10 +14,7 @@ I strongly encourage you to complete this assignment in class. Submitting the fi
 
 
 
-
-
-
-.[How the political engagement increased since Trump inauguration]. (https://www.washingtonpost.com/news/national/wp/2018/04/06/feature/in-reaction-to-trump-millions-of-americans-are-joining-protests-and-getting-political/?utm_term=.a814877b21bc)
+.[How the political engagement increased since Trump inauguration].(https://www.washingtonpost.com/news/national/wp/2018/04/06/feature/in-reaction-to-trump-millions-of-americans-are-joining-protests-and-getting-political/?utm_term=.a814877b21bc)
 
 
 
