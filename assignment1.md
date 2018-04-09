@@ -13,7 +13,14 @@ I strongly encourage you to complete this assignment in class. Submitting the fi
 
 
 
-.[The Washington Post story on the crisis of Flint water ](https://www.washingtonpost.com/news/wonk/wp/2016/01/15/this-is-how-toxic-flints-water-really-is/?utm_term=.36209ae57850)
+
+
+
+
+.[The Washington Post Story on how political engagement increased under Trump administration ].(https://www.washingtonpost.com/news/national/wp/2018/04/06/feature/in-reaction-to-trump-millions-of-americans-are-joining-protests-and-getting-political/?utm_term=.a814877b21bc)
+
+
+
 
 
 
