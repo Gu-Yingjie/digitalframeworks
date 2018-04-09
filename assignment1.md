@@ -1,13 +1,3 @@
-
-Include at least the following features in your writeup, to show you know how to use markdown:
-A heading
-A list or table
-Hyperlinked text
-Submit this assignment in your digitalframeworks repository as assignment1.md.
-I strongly encourage you to complete this assignment in class. Submitting the first assignment is the hardest, and I'm here to help if you do it in class. I can't help you if you email me 20 minutes before deadline.
-
-
-
 .[The Washington Post Story]. (http://www.washingtonpost.com/news/national/wp/2018/04/06/feature/in-reaction-to-trump-millions-of-americans-are-joining-protests-and-getting-political/?utm_term=.a814877b21bc)
 
 
@@ -22,6 +12,7 @@ I also like how they give emphasized subtitles and graphics for each of the more
 But it seems a bit confusing to me while they are illustrating the results. It was not said in the poll page how many people are involved, but I found that under the subtitle of the last poll finding. I am not sure of the number of people polled said here can apply to other poll results. If it is, why they pointed out how many people are polled almost at the end of the article. I also get lost a bit in the percentage out of percentage. For example, they said how many people attend rally in past two years and how many of the 20 percent have never attended before. Then it jumped to how many of all joined a rally because of Trump. 
 
 I will be wondering how exactly it will affect the midterm elections according to the poll results. At the beginning of the article, it said that this will for sure aspect so I expected that the article would at least provide some guidance. 
+
 
 |  Trump Approval | Rallygoers | Nonrallygoers |
 |-----------------|------------| --------------|
