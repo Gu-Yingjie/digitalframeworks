@@ -25,9 +25,9 @@ I will be wondering how exactly it will affect the midterm elections according t
 
 |  Trump Approval | Rallygoers | Nonrallygoers |
 |-----------------|------------| --------------|
-|  Approve | cell 2     | cell 3 |
-|--------- |------------| -------|
-| Disapprove | cell 2     | cell 3 |
+|  Approve | 30%    | 43% |
+|--------- |------------|--------|
+| Disapprove |70%   | 54% |
 
 
 
