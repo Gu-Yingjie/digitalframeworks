@@ -1,4 +1,4 @@
-[How economic leading powers will be aging by mid-21st century?](https://docs.google.com/spreadsheets/d/1I6Yumm63kHib_WlKcO3b3YKW7Whpu7O51ehwYbEuhiA/edit#gid=0) 
+[How will economic leading powers be aging by mid-21st century?](https://docs.google.com/spreadsheets/d/1I6Yumm63kHib_WlKcO3b3YKW7Whpu7O51ehwYbEuhiA/edit#gid=0) 
 
 The world’s three largest economies are the United States, China and Japan. Their market productivity will determine the economic well-being of the rest of the world. And it matters even more being in the fast-developing globalizing 21st century. 
 
