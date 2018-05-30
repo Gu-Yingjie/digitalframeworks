@@ -6,7 +6,7 @@ The overall improvement of living conditions have enabled people to live longer.
 
 According to a 2016 research by the National Bureau of Economic Research, when the the percentage of the population group 60 years and older increase 10 percent, the growth rate of GDP per capita will lower by 5.5 percent. And in the case of the age group of 65 years and older, the decrease is expected to be worse. 
 
-Japan has long been known for its aging population problem, which is getting worse. While China is said to soon to have a similar problem worsened by its one child policy, the U.S.’s situation is not much better as the baby boomers generation started to age. 
+Japan has long been known for its aging population problem, which is getting worse. While China is said to soon to have a similar problem worsened by its one child policy, the U.S.’s situation is not much better as the baby boomers generation, people who were born after the second World War from 1946 to 1964, started to age. 
 
 Based on the data I compiled from U.S. census, Japan Statistics Bureau, National Bureau of Statistics of China, it was seen that all of the three countries is having a trend of having a larger and larger population of the age group of 65 years and older. 
 
@@ -32,7 +32,7 @@ In the next few decades by 2050, if the growth rate remains steady, the United S
 
 In other words, in 55 years from 1996, the United States will double its aged population, ending up one quarter of its citizens being 65 years and older. China, although still slightly lower in percentage than the United States as always, the aging population group more than tripled during this period. 
 
-If the growth rate continues, Japan, by mid-21st century, will have over half of its population being or over 65 years old. That number more than quadrupled when entering the later half of the 21st century. 
+If the growth rate continues, Japan, by mid-21st century, will have over half of its population being or over 65 years old. That number quadrupled when entering the later half of the 21st century. 
 
 The effect could be most serious for China, as it has a manufacturing dependent industry benefited from a overflow of labor force and thus low costs for labors, according to reports from China Power project of the think tank Center for Strategic and International Studies. 
 
@@ -42,4 +42,5 @@ For the other two developed countries, the United States and Japan, they still h
 
 In its most recent editorials of the aging issue, the Japan times about the possible solutions of countering the effect. Besides putting more physical demanding work on robots. It also suggested an extension of retirement age, which Japan is already doing so and training older people for high-skilled jobs. 
 
-The United States was not experiencing the same aging pressure as Japan does. Right now, multiple reports say that the problem is about not having enough qualified senior-care workers and possibly in the near term, there might be a shift of workers working in this field.
+The United States was not experiencing the same aging pressure as Japan does. Right now, multiple reports say that the problem is about not having enough qualified senior-care workers as the large baby boomer generation reaches retirement age. It is expected that there would be a large demand of workers, especially skillful ones, in that field in the near term. 
+
