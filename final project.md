@@ -40,7 +40,7 @@ According to the report, although the one-child policy has been terminated 2 yea
 
 For the other two developed countries, the United States and Japan, they still have the possibility of continuing having technological advances to offset the drop in productivity from aging population. 
 
-In its most recent editorials of the aging issue, the Japan times about the possible solutions of countering the effect. Besides putting more physical demanding work on robots. It also suggested an extension of retirement age, which Japan is already doing so and training older people for high-skilled jobs. 
+In its most recent editorials of the aging issue, the Japan times about the possible solutions of countering the effect. Besides putting more physical demanding work on robots, it also suggested an extension of retirement age, which Japan is already doing so and training older people for high-skilled jobs. 
 
 The United States was not experiencing the same aging pressure as Japan does. Right now, multiple reports say that the problem is about not having enough qualified senior-care workers as the large baby boomer generation reaches retirement age. It is expected that there would be a large demand of workers, especially skillful ones, in that field in the near term. 
 
